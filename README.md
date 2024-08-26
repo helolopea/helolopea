@@ -1,16 +1,14 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🔖
 
-<!--
-**helolopea/helolopea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sou a Heloisa Lopes**
 
-Here are some ideas to get you started:
+- Estudo no Maria Neiva 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou no primeiro ano do ensino medio
+
+- Uso esse site para me organizar e compartilhar meus projetos
+
+  ## Se quiser entrar em contato comigo pode acessar nesse email 📧
+- @00001141709594sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/qvde3FkdjUcAAAAC/masha-i-medved-back-to-school.gif)
